@@ -1,0 +1,12 @@
+{
+  "EMERALDS": {
+    "alpha": 0.027054990312704974,
+    "depth_ticks": -0.5739503465234019,
+    "tick_size": 1
+  },
+  "TOMATOES": {
+    "alpha": 0.12289900134843756,
+    "depth_ticks": -0.6713269937986717,
+    "tick_size": 1
+  }
+}

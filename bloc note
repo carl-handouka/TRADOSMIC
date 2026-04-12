@@ -1,0 +1,13 @@
+Pour consulter les limites de position par produit, vous pouvez vous référer à la section « Rounds » du Wiki, où elles sont indiquées pour chaque manche.
+
+librairies autorisée [pandas](https://pandas.pydata.org/)
+
+[NumPy](https://numpy.org/)
+
+[statistics](https://docs.python.org/3.9/library/statistics.html)
+
+[math](https://docs.python.org/3.9/library/math.html)
+
+[typing](https://docs.python.org/3.9/library/typing.html)
+
+[jsonpickle](https://jsonpickle.github.io/)
